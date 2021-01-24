@@ -1,0 +1,2 @@
+D:\Programming Projects\Personal Mini Projects\Windows Internals Learning\ThreadPriority\Debug\ThreadPriority.sys
+D:\Programming Projects\Personal Mini Projects\Windows Internals Learning\ThreadPriority\Debug\ThreadPriority.pdb

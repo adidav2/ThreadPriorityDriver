@@ -1,0 +1,8 @@
+﻿  Building 'ThreadPriority' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  ThreadPriority.cpp
+  ThreadPriority.vcxproj -> D:\Programming Projects\Personal Mini Projects\Windows Internals Learning\ThreadPriority\Debug\ThreadPriority.sys
+  Done Adding Additional Store
+  Successfully signed: D:\Programming Projects\Personal Mini Projects\Windows Internals Learning\ThreadPriority\Debug\ThreadPriority.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
